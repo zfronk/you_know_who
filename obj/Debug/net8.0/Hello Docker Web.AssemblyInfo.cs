@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Hello Docker Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c27b7716c83a74255f4af0af497af8ea1b36a18")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7982d21a5b263873bfa57513a6de86ab319517d2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Hello Docker Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Hello Docker Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
