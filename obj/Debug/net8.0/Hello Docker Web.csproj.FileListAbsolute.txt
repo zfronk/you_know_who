@@ -1,0 +1,35 @@
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\bin\Debug\net8.0\appsettings.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\bin\Debug\net8.0\Hello Docker Web.staticwebassets.runtime.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\bin\Debug\net8.0\Hello Docker Web.staticwebassets.endpoints.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\bin\Debug\net8.0\Hello Docker Web.exe
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\bin\Debug\net8.0\Hello Docker Web.deps.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\bin\Debug\net8.0\Hello Docker Web.runtimeconfig.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\bin\Debug\net8.0\Hello Docker Web.dll
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\bin\Debug\net8.0\Hello Docker Web.pdb
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\Hello Docker Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\Hello Docker Web.AssemblyInfoInputs.cache
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\Hello Docker Web.AssemblyInfo.cs
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\Hello Docker Web.csproj.CoreCompileInputs.cache
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\Hello Docker Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\Hello Docker Web.RazorAssemblyInfo.cache
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\Hello Docker Web.RazorAssemblyInfo.cs
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\Hello Docker Web.sourcelink.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\scopedcss\bundle\Hello Docker Web.styles.css
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\scopedcss\projectbundle\Hello Docker Web.bundle.scp.css
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\staticwebassets\msbuild.Hello Docker Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\staticwebassets\msbuild.Hello Docker Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\staticwebassets\msbuild.build.Hello Docker Web.props
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Hello Docker Web.props
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Hello Docker Web.props
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\Hello Docker Web.dll
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\refint\Hello Docker Web.dll
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\Hello Docker Web.pdb
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\Hello Docker Web.genruntimeconfig.cache
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net8.0\ref\Hello Docker Web.dll
