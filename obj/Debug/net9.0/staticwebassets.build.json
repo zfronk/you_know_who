@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "7o3SN8Om4EMwebuic+L4kTc1J4NB7V/DSapSNLxj5Hs=",
+  "Hash": "5RafefboiAW0TJMQ/l+Vz02FflSm0M89KuDo4QYooj0=",
   "Source": "Hello Docker Web",
   "BasePath": "_content/Hello Docker Web",
   "Mode": "Default",
@@ -563,12 +563,12 @@
       "OriginalItemSpec": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\obj\\Debug\\net9.0\\compressed\\i3bbytamwk-ji94y1mgy5.gz",
+      "Identity": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\obj\\Debug\\net9.0\\compressed\\i3bbytamwk-obqmph9bw8.gz",
       "SourceId": "Hello Docker Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/Hello Docker Web",
-      "RelativePath": "css/site#[.{fingerprint=ji94y1mgy5}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=obqmph9bw8}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -577,8 +577,8 @@
       "RelatedAsset": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ado4zrgxcr",
-      "Integrity": "ohzNl/6fB8vrubIO5GZrXYWa2mFWLxJhLPLWvKCoOKk=",
+      "Fingerprint": "e6zc4jj531",
+      "Integrity": "6qL5JFOBIXH0KvVvoQgLRdx0h2V/+be1gYtkV6W/q8k=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ji94y1mgy5",
-      "Integrity": "K2962M6muld55lM71xzpvBF4+QeDrg/07eTkJ1y4d3w=",
+      "Fingerprint": "obqmph9bw8",
+      "Integrity": "POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2729,12 +2729,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\obj\\Debug\\net9.0\\compressed\\i3bbytamwk-ji94y1mgy5.gz",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\obj\\Debug\\net9.0\\compressed\\i3bbytamwk-obqmph9bw8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002500000000"
+          "Quality": "0.002469135802"
         }
       ],
       "ResponseHeaders": [
@@ -2744,15 +2744,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "399"
+          "Value": "404"
         },
         {
           "Name": "ETag",
-          "Value": "\"ohzNl/6fB8vrubIO5GZrXYWa2mFWLxJhLPLWvKCoOKk=\""
+          "Value": "\"6qL5JFOBIXH0KvVvoQgLRdx0h2V/+be1gYtkV6W/q8k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 07:44:51 GMT"
+          "Value": "Tue, 28 Jan 2025 16:32:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2772,13 +2772,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"K2962M6muld55lM71xzpvBF4+QeDrg/07eTkJ1y4d3w=\""
+          "Value": "W/\"POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-K2962M6muld55lM71xzpvBF4+QeDrg/07eTkJ1y4d3w="
+          "Value": "sha256-POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60="
         }
       ]
     },
@@ -2793,7 +2793,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "820"
+          "Value": "843"
         },
         {
           "Name": "Content-Type",
@@ -2801,11 +2801,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K2962M6muld55lM71xzpvBF4+QeDrg/07eTkJ1y4d3w=\""
+          "Value": "\"POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 07:44:51 GMT"
+          "Value": "Tue, 28 Jan 2025 16:32:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2815,13 +2815,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-K2962M6muld55lM71xzpvBF4+QeDrg/07eTkJ1y4d3w="
+          "Value": "sha256-POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\obj\\Debug\\net9.0\\compressed\\i3bbytamwk-ji94y1mgy5.gz",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\obj\\Debug\\net9.0\\compressed\\i3bbytamwk-obqmph9bw8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2830,7 +2830,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "399"
+          "Value": "404"
         },
         {
           "Name": "Content-Type",
@@ -2838,11 +2838,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ohzNl/6fB8vrubIO5GZrXYWa2mFWLxJhLPLWvKCoOKk=\""
+          "Value": "\"6qL5JFOBIXH0KvVvoQgLRdx0h2V/+be1gYtkV6W/q8k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 07:44:51 GMT"
+          "Value": "Tue, 28 Jan 2025 16:32:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2860,18 +2860,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ohzNl/6fB8vrubIO5GZrXYWa2mFWLxJhLPLWvKCoOKk="
+          "Value": "sha256-6qL5JFOBIXH0KvVvoQgLRdx0h2V/+be1gYtkV6W/q8k="
         }
       ]
     },
     {
-      "Route": "css/site.ji94y1mgy5.css",
-      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\obj\\Debug\\net9.0\\compressed\\i3bbytamwk-ji94y1mgy5.gz",
+      "Route": "css/site.obqmph9bw8.css",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\obj\\Debug\\net9.0\\compressed\\i3bbytamwk-obqmph9bw8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.002500000000"
+          "Quality": "0.002469135802"
         }
       ],
       "ResponseHeaders": [
@@ -2881,15 +2881,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "399"
+          "Value": "404"
         },
         {
           "Name": "ETag",
-          "Value": "\"ohzNl/6fB8vrubIO5GZrXYWa2mFWLxJhLPLWvKCoOKk=\""
+          "Value": "\"6qL5JFOBIXH0KvVvoQgLRdx0h2V/+be1gYtkV6W/q8k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 07:44:51 GMT"
+          "Value": "Tue, 28 Jan 2025 16:32:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2909,13 +2909,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"K2962M6muld55lM71xzpvBF4+QeDrg/07eTkJ1y4d3w=\""
+          "Value": "W/\"POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ji94y1mgy5"
+          "Value": "obqmph9bw8"
         },
         {
           "Name": "label",
@@ -2923,12 +2923,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-K2962M6muld55lM71xzpvBF4+QeDrg/07eTkJ1y4d3w="
+          "Value": "sha256-POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60="
         }
       ]
     },
     {
-      "Route": "css/site.ji94y1mgy5.css",
+      "Route": "css/site.obqmph9bw8.css",
       "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2938,7 +2938,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "820"
+          "Value": "843"
         },
         {
           "Name": "Content-Type",
@@ -2946,11 +2946,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"K2962M6muld55lM71xzpvBF4+QeDrg/07eTkJ1y4d3w=\""
+          "Value": "\"POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 07:44:51 GMT"
+          "Value": "Tue, 28 Jan 2025 16:32:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2960,7 +2960,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ji94y1mgy5"
+          "Value": "obqmph9bw8"
         },
         {
           "Name": "label",
@@ -2968,13 +2968,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-K2962M6muld55lM71xzpvBF4+QeDrg/07eTkJ1y4d3w="
+          "Value": "sha256-POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60="
         }
       ]
     },
     {
-      "Route": "css/site.ji94y1mgy5.css.gz",
-      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\obj\\Debug\\net9.0\\compressed\\i3bbytamwk-ji94y1mgy5.gz",
+      "Route": "css/site.obqmph9bw8.css.gz",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\obj\\Debug\\net9.0\\compressed\\i3bbytamwk-obqmph9bw8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2983,7 +2983,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "399"
+          "Value": "404"
         },
         {
           "Name": "Content-Type",
@@ -2991,11 +2991,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ohzNl/6fB8vrubIO5GZrXYWa2mFWLxJhLPLWvKCoOKk=\""
+          "Value": "\"6qL5JFOBIXH0KvVvoQgLRdx0h2V/+be1gYtkV6W/q8k=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 07:44:51 GMT"
+          "Value": "Tue, 28 Jan 2025 16:32:56 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3013,7 +3013,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ji94y1mgy5"
+          "Value": "obqmph9bw8"
         },
         {
           "Name": "label",
@@ -3021,7 +3021,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ohzNl/6fB8vrubIO5GZrXYWa2mFWLxJhLPLWvKCoOKk="
+          "Value": "sha256-6qL5JFOBIXH0KvVvoQgLRdx0h2V/+be1gYtkV6W/q8k="
         }
       ]
     },

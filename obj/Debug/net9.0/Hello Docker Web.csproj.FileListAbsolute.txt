@@ -89,10 +89,11 @@ C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\stat
 C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Hello Docker Web.props
 C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Hello Docker Web.props
 C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\staticwebassets.pack.json
-C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
 C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\Hello Docker Web.dll
 C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\refint\Hello Docker Web.dll
 C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\Hello Docker Web.pdb
 C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\Hello Docker Web.genruntimeconfig.cache
 C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\ref\Hello Docker Web.dll
-C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\i3bbytamwk-ji94y1mgy5.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\Hello Docker Web.sourcelink.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\i3bbytamwk-obqmph9bw8.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
