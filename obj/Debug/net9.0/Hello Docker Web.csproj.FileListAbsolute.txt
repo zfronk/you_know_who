@@ -1,0 +1,98 @@
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\bin\Debug\net9.0\appsettings.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\bin\Debug\net9.0\Hello Docker Web.staticwebassets.runtime.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\bin\Debug\net9.0\Hello Docker Web.staticwebassets.endpoints.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\bin\Debug\net9.0\Hello Docker Web.exe
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\bin\Debug\net9.0\Hello Docker Web.deps.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\bin\Debug\net9.0\Hello Docker Web.runtimeconfig.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\bin\Debug\net9.0\Hello Docker Web.dll
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\bin\Debug\net9.0\Hello Docker Web.pdb
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\Hello Docker Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\Hello Docker Web.AssemblyInfoInputs.cache
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\Hello Docker Web.AssemblyInfo.cs
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\Hello Docker Web.csproj.CoreCompileInputs.cache
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\Hello Docker Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\Hello Docker Web.RazorAssemblyInfo.cache
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\Hello Docker Web.RazorAssemblyInfo.cs
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\scopedcss\bundle\Hello Docker Web.styles.css
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\scopedcss\projectbundle\Hello Docker Web.bundle.scp.css
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\qdtyg6i98a-61n19gt1b8.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\1edpox1lj5-xtxxf3hu2r.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\8wk7pd6afx-bqjiyaj88i.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\janca43cax-c2jlpeoesf.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\m0z39gosld-erw9l3u2r3.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\syzw3ktiw0-aexeepp0ev.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\ijhohshalg-d7shbmvgxk.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\u9rs3vc771-ausgxo2sd3.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\hvccasn3lw-k8d9w2qqmf.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\0cmnj8myeu-cosvhxvwiu.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\o62t7o5qo4-ub07r2b239.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\f1bixxlf2z-fvhpjtyr6v.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\y59pw1v3a9-b7pk76d08c.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\x7ltv04d61-fsbi9cje9m.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\v4hccipxly-rzd6atqjts.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\02ig6yb13j-ee0r1s7dh0.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\b6zr4ijmmi-dxx9fxp4il.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\vnpxvrd4dp-jd9uben2k1.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\sqb4p0hn4f-khv3u5hwcm.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\5m1p1gxkhn-r4e9w2rdcm.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\n4uuihs5bj-lcd1t2u6c8.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\4u58rll6sf-c2oey78nd0.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\6zu2z0wez6-tdbxkamptv.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\6haee5scam-j5mq2jizvt.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\s0j96nee8x-06098lyss8.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\w2ssauk7il-nvvlpmu67g.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\ovntlkuzdc-s35ty4nyc5.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\e7m5b27lvu-pj5nd1wqec.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\rhmgz01bmo-46ein0sx1k.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\ugxyliczof-v0zj4ognzu.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\uw21xqt3a1-37tfw0ft22.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\fq4xofyn85-hrwsygsryq.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\8vo22f9kbm-pk9g2wxc8p.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\qxgcunl6dk-ft3s53vfgj.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\2vonwqvadp-6cfz1n2cew.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\35awswrp08-6pdc2jztkx.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\ygd5l8zeag-493y06b0oq.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\r15lun8r8y-iovd86k7lj.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\hzzhcfm2ip-vr1egmr9el.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\oefp59ajqm-kbrnm935zg.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\5kn33ltpzu-jj8uyg4cgr.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\6d8kmkabpi-y7v9cxd14o.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\2yv0zl1v3a-notf2xhcfb.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\q2cnavbhod-h1s4sie4z3.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\tixmdmjani-63fj8s7r0e.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\howhzdoor1-0j3bgjxly4.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\rj66qsss5a-47otxtyo56.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\pd68he4udh-4v8eqarkd7.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\4kio96qulm-356vix0kms.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\p5g16mqew4-83jwlth58m.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\0jrkteeowe-mrlpezrjn3.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\w9gwwiiddr-lzl9nlhx6b.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\fgzouf5tcm-ag7o75518u.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\ug5hvh670k-x0q3zqp4vz.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\ph7j8b5n8m-0i3buxo5is.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\pwrx7hf5jr-o1o13a6vjx.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\u6l0jbewfz-ttgo8qnofa.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\qwrszoelgx-2z0ns9nrw6.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\cbt5czdfai-muycvpuwrr.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\35ahsw0o7d-87fc7y1x7t.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\nprick6y0n-mlv21k5csn.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\xcbfbatlul-3yc5skkugo.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\q3sfs873rx-3yc5skkugo.gz
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\staticwebassets\msbuild.Hello Docker Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\staticwebassets\msbuild.Hello Docker Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\staticwebassets\msbuild.build.Hello Docker Web.props
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Hello Docker Web.props
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Hello Docker Web.props
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\Hello Docker Web.dll
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\refint\Hello Docker Web.dll
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\Hello Docker Web.pdb
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\Hello Docker Web.genruntimeconfig.cache
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\ref\Hello Docker Web.dll
+C:\Users\Zfronk's\Desktop\Dotnet Projects\Hello Docker Web\obj\Debug\net9.0\compressed\i3bbytamwk-ji94y1mgy5.gz
