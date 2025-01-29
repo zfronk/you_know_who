@@ -53,13 +53,13 @@ public class HomeController : Controller
 
             };
 
-
-            var existingUser = _db.users.FirstOrDefault(u => u.EmailAddress == userEmailAddress && u.Name == userName);
+            //Check via email address
+            var existingUser = _db.users.FirstOrDefault(u => u.EmailAddress == userEmailAddress);
 
             if (existingUser != null)
             {
 
-                ViewData["Opps"] = "Email address in use!";
+                ViewData["Opps"] = "Email address already in use!";
                 return View("Index");
             }
 
@@ -98,7 +98,7 @@ public class HomeController : Controller
             }
 
 
-            var validUser = _db.users.SingleOrDefault(u => u.EmailAddress == emailAddress && u.Age == userAgeInt && u.Password == password ); 
+            var validUser = _db.users.SingleOrDefault(u => u.EmailAddress == emailAddress && u.Age == userAgeInt && u.Password == password && u.Name == userName ); 
 
             if(validUser != null)
             {

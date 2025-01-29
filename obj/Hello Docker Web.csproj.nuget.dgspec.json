@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\Hello Docker Web.csproj": {}
+    "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Know You\\Hello Docker Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\Hello Docker Web.csproj": {
+    "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Know You\\Hello Docker Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\Hello Docker Web.csproj",
+        "projectUniqueName": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Know You\\Hello Docker Web.csproj",
         "projectName": "Hello Docker Web",
-        "projectPath": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\Hello Docker Web.csproj",
+        "projectPath": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Know You\\Hello Docker Web.csproj",
         "packagesPath": "C:\\Users\\Zfronk's\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\obj\\",
+        "outputPath": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Know You\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

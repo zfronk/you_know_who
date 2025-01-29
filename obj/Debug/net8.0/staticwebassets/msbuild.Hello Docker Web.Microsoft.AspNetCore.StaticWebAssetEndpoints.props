@@ -16,13 +16,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Hello Docker Web.3yc5skkugo.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3yc5skkugo"},{"Name":"integrity","Value":"sha256-NQMho334VMDMQSGtfhWdEkvSdkuB/8p\u002BggUU9KgY\u002Bas="},{"Name":"label","Value":"_content/Hello Docker Web/Hello Docker Web.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NQMho334VMDMQSGtfhWdEkvSdkuB/8p\u002BggUU9KgY\u002Bas=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 19:11:45 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NQMho334VMDMQSGtfhWdEkvSdkuB/8p\u002BggUU9KgY\u002Bas=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Jan 2025 16:38:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Hello Docker Web/Hello Docker Web.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Hello Docker Web.3yc5skkugo.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NQMho334VMDMQSGtfhWdEkvSdkuB/8p\u002BggUU9KgY\u002Bas="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NQMho334VMDMQSGtfhWdEkvSdkuB/8p\u002BggUU9KgY\u002Bas=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 19:11:45 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NQMho334VMDMQSGtfhWdEkvSdkuB/8p\u002BggUU9KgY\u002Bas=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Jan 2025 16:38:48 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Hello Docker Web/icons/favicon/about.dxwinlvmj1.txt">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\favicon\about.txt'))</AssetFile>
