@@ -467,7 +467,6 @@ C:\Users\Zfronk's\Desktop\Dotnet Projects\Know You\obj\Debug\net8.0\staticwebass
 C:\Users\Zfronk's\Desktop\Dotnet Projects\Know You\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Hello Docker Web.props
 C:\Users\Zfronk's\Desktop\Dotnet Projects\Know You\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Hello Docker Web.props
 C:\Users\Zfronk's\Desktop\Dotnet Projects\Know You\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\Zfronk's\Desktop\Dotnet Projects\Know You\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\Zfronk's\Desktop\Dotnet Projects\Know You\obj\Debug\net8.0\Hello Do.62D7782E.Up2Date
 C:\Users\Zfronk's\Desktop\Dotnet Projects\Know You\obj\Debug\net8.0\Hello Docker Web.dll
 C:\Users\Zfronk's\Desktop\Dotnet Projects\Know You\obj\Debug\net8.0\refint\Hello Docker Web.dll
