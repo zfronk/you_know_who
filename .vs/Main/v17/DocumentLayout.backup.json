@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\Hello Docker Web\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\hello docker web\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\hello docker web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\hello docker web\\views\\home\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|solutionrelative:views\\home\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\hello docker web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\hello docker web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\hello docker web\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -66,11 +70,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\Hello Docker Web\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\Hello Docker Web\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAAB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-29T02:08:41.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\Hello Docker Web\\Views\\Home\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Dashboard.cshtml",
@@ -82,7 +99,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "LoginPage.cshtml",
               "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\Hello Docker Web\\Views\\Home\\LoginPage.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\LoginPage.cshtml",
@@ -90,12 +107,11 @@
               "RelativeToolTip": "Views\\Home\\LoginPage.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T00:31:06.178Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-29T00:31:06.178Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "Privacy.cshtml",
               "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\Hello Docker Web\\Views\\Home\\Privacy.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
@@ -107,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\Hello Docker Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -119,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\Hello Docker Web\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -132,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\Hello Docker Web\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -144,7 +160,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\Hello Docker Web\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -156,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\Hello Docker Web\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
@@ -168,7 +184,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Hello Docker Web.csproj",
               "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\Hello Docker Web\\Hello Docker Web.csproj",
               "RelativeDocumentMoniker": "Hello Docker Web.csproj",
@@ -180,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "Welcome.cshtml",
               "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\Hello Docker Web\\Views\\Home\\Welcome.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Welcome.cshtml",
@@ -192,7 +208,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
@@ -204,7 +220,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UsersModel.cs",
               "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\Hello Docker Web\\Models\\UsersModel.cs",
               "RelativeDocumentMoniker": "Models\\UsersModel.cs",
@@ -216,7 +232,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\Hello Docker Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -224,12 +240,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-28T22:35:37.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-28T22:35:37.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\Hello Docker Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
