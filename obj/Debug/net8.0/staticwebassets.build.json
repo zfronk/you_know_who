@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "yr8vemgHMHJLrHpVBbZ4s4ozAqCLrDCYk0dR5waHoMI=",
+  "Hash": "qSPmLoZTDbkA21tEwXeBQPUF4pClUJrSSS2HfER1sF4=",
   "Source": "Hello Docker Web",
   "BasePath": "_content/Hello Docker Web",
   "Mode": "Default",
@@ -73,19 +73,19 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "obqmph9bw8",
-      "Integrity": "POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60=",
+      "Fingerprint": "0r5lqkca5o",
+      "Integrity": "pIXZuZ+MAU64gWdZC2CgkAjuO9X2vj16AN96gkO3WBg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\about.txt",
       "SourceId": "Hello Docker Web",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\",
       "BasePath": "_content/Hello Docker Web",
-      "RelativePath": "favicon#[.{fingerprint}]?.ico",
+      "RelativePath": "icons/favicon/about#[.{fingerprint}]?.txt",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -94,11 +94,158 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "61n19gt1b8",
-      "Integrity": "Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=",
+      "Fingerprint": "dxwinlvmj1",
+      "Integrity": "zy1CTPouLyTrn1DDGy2tMyyDPJSnNmzypxwtRQIUYfE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\favicon.ico"
+      "OriginalItemSpec": "wwwroot\\icons\\favicon\\about.txt"
+    },
+    {
+      "Identity": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\android-chrome-192x192.png",
+      "SourceId": "Hello Docker Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\",
+      "BasePath": "_content/Hello Docker Web",
+      "RelativePath": "icons/favicon/android-chrome-192x192#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "b7g22l5kou",
+      "Integrity": "h8RMx0cdMedO8MpFX/Uj4c+d6ClILvp1yVf67JWj5Mo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\favicon\\android-chrome-192x192.png"
+    },
+    {
+      "Identity": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\android-chrome-512x512.png",
+      "SourceId": "Hello Docker Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\",
+      "BasePath": "_content/Hello Docker Web",
+      "RelativePath": "icons/favicon/android-chrome-512x512#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "sjg1ct0g5j",
+      "Integrity": "+NWhFq3YO62+ydtbbGIYs4YtEP/60MqYWgbW3V7AyLI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\favicon\\android-chrome-512x512.png"
+    },
+    {
+      "Identity": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\apple-touch-icon.png",
+      "SourceId": "Hello Docker Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\",
+      "BasePath": "_content/Hello Docker Web",
+      "RelativePath": "icons/favicon/apple-touch-icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "plkuk0acib",
+      "Integrity": "zfdVQWBXJMwpU8hV/GZVZiEkCaW/kjU8uFRaFZQjr3g=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\favicon\\apple-touch-icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\favicon.ico",
+      "SourceId": "Hello Docker Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\",
+      "BasePath": "_content/Hello Docker Web",
+      "RelativePath": "icons/favicon/favicon#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xa42lkc182",
+      "Integrity": "t3j8zVCSrlShbgnh3O3tcc0wAvejI0PwHOUCTfyIbT8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\favicon\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\favicon-16x16.png",
+      "SourceId": "Hello Docker Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\",
+      "BasePath": "_content/Hello Docker Web",
+      "RelativePath": "icons/favicon/favicon-16x16#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "73exbzuh65",
+      "Integrity": "bcNJZLQ7SZCN7q8cTFAYvbwbp9lN7upXdasDHT6c14U=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\favicon\\favicon-16x16.png"
+    },
+    {
+      "Identity": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\favicon-32x32.png",
+      "SourceId": "Hello Docker Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\",
+      "BasePath": "_content/Hello Docker Web",
+      "RelativePath": "icons/favicon/favicon-32x32#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nnhhtajgxt",
+      "Integrity": "XbfqiVS8yC/YzTg6TIpC6XimkzWbPdPUmuAmexssKsY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\favicon\\favicon-32x32.png"
+    },
+    {
+      "Identity": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\site.webmanifest",
+      "SourceId": "Hello Docker Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\",
+      "BasePath": "_content/Hello Docker Web",
+      "RelativePath": "icons/favicon/site#[.{fingerprint}]?.webmanifest",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "6sx6pifph3",
+      "Integrity": "ep4Hzh9zhmiZF2At3Fp1dQrYQuYF/3ZPZxc1KcGBvwQ=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\icons\\favicon\\site.webmanifest"
     },
     {
       "Identity": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\js\\site.js",
@@ -1384,6 +1531,51 @@
   ],
   "Endpoints": [
     {
+      "Route": "css/site.0r5lqkca5o.css",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pIXZuZ+MAU64gWdZC2CgkAjuO9X2vj16AN96gkO3WBg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Jan 2025 00:26:42 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0r5lqkca5o"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pIXZuZ+MAU64gWdZC2CgkAjuO9X2vj16AN96gkO3WBg="
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\css\\site.css",
       "Selectors": [],
@@ -1394,7 +1586,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "843"
+          "Value": "947"
         },
         {
           "Name": "Content-Type",
@@ -1402,11 +1594,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60=\""
+          "Value": "\"pIXZuZ+MAU64gWdZC2CgkAjuO9X2vj16AN96gkO3WBg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 16:32:56 GMT"
+          "Value": "Wed, 29 Jan 2025 00:26:42 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -1416,134 +1608,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.obqmph9bw8.css",
-      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "843"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 16:32:56 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "obqmph9bw8"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\favicon.ico",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5430"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 21:36:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "61n19gt1b8"
-        },
-        {
-          "Name": "label",
-          "Value": "favicon.ico"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
-        }
-      ]
-    },
-    {
-      "Route": "favicon.ico",
-      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\favicon.ico",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5430"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/x-icon"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 21:36:13 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-pIXZuZ+MAU64gWdZC2CgkAjuO9X2vj16AN96gkO3WBg="
         }
       ]
     },
@@ -1708,6 +1773,662 @@
         {
           "Name": "integrity",
           "Value": "sha256-NQMho334VMDMQSGtfhWdEkvSdkuB/8p+ggUU9KgY+as="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/about.dxwinlvmj1.txt",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\about.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "218"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zy1CTPouLyTrn1DDGy2tMyyDPJSnNmzypxwtRQIUYfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "dxwinlvmj1"
+        },
+        {
+          "Name": "label",
+          "Value": "icons/favicon/about.txt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zy1CTPouLyTrn1DDGy2tMyyDPJSnNmzypxwtRQIUYfE="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/about.txt",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\about.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "218"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zy1CTPouLyTrn1DDGy2tMyyDPJSnNmzypxwtRQIUYfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zy1CTPouLyTrn1DDGy2tMyyDPJSnNmzypxwtRQIUYfE="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/android-chrome-192x192.b7g22l5kou.png",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\android-chrome-192x192.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9327"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h8RMx0cdMedO8MpFX/Uj4c+d6ClILvp1yVf67JWj5Mo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "b7g22l5kou"
+        },
+        {
+          "Name": "label",
+          "Value": "icons/favicon/android-chrome-192x192.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-h8RMx0cdMedO8MpFX/Uj4c+d6ClILvp1yVf67JWj5Mo="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/android-chrome-192x192.png",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\android-chrome-192x192.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "9327"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h8RMx0cdMedO8MpFX/Uj4c+d6ClILvp1yVf67JWj5Mo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h8RMx0cdMedO8MpFX/Uj4c+d6ClILvp1yVf67JWj5Mo="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/android-chrome-512x512.png",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\android-chrome-512x512.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+NWhFq3YO62+ydtbbGIYs4YtEP/60MqYWgbW3V7AyLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+NWhFq3YO62+ydtbbGIYs4YtEP/60MqYWgbW3V7AyLI="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/android-chrome-512x512.sjg1ct0g5j.png",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\android-chrome-512x512.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+NWhFq3YO62+ydtbbGIYs4YtEP/60MqYWgbW3V7AyLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sjg1ct0g5j"
+        },
+        {
+          "Name": "label",
+          "Value": "icons/favicon/android-chrome-512x512.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+NWhFq3YO62+ydtbbGIYs4YtEP/60MqYWgbW3V7AyLI="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/apple-touch-icon.plkuk0acib.png",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\apple-touch-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8367"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zfdVQWBXJMwpU8hV/GZVZiEkCaW/kjU8uFRaFZQjr3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "plkuk0acib"
+        },
+        {
+          "Name": "label",
+          "Value": "icons/favicon/apple-touch-icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zfdVQWBXJMwpU8hV/GZVZiEkCaW/kjU8uFRaFZQjr3g="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/apple-touch-icon.png",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\apple-touch-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8367"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zfdVQWBXJMwpU8hV/GZVZiEkCaW/kjU8uFRaFZQjr3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:18 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zfdVQWBXJMwpU8hV/GZVZiEkCaW/kjU8uFRaFZQjr3g="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/favicon.ico",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t3j8zVCSrlShbgnh3O3tcc0wAvejI0PwHOUCTfyIbT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-t3j8zVCSrlShbgnh3O3tcc0wAvejI0PwHOUCTfyIbT8="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/favicon.xa42lkc182.ico",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t3j8zVCSrlShbgnh3O3tcc0wAvejI0PwHOUCTfyIbT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xa42lkc182"
+        },
+        {
+          "Name": "label",
+          "Value": "icons/favicon/favicon.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t3j8zVCSrlShbgnh3O3tcc0wAvejI0PwHOUCTfyIbT8="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/favicon-16x16.73exbzuh65.png",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\favicon-16x16.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bcNJZLQ7SZCN7q8cTFAYvbwbp9lN7upXdasDHT6c14U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "73exbzuh65"
+        },
+        {
+          "Name": "label",
+          "Value": "icons/favicon/favicon-16x16.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bcNJZLQ7SZCN7q8cTFAYvbwbp9lN7upXdasDHT6c14U="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/favicon-16x16.png",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\favicon-16x16.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bcNJZLQ7SZCN7q8cTFAYvbwbp9lN7upXdasDHT6c14U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bcNJZLQ7SZCN7q8cTFAYvbwbp9lN7upXdasDHT6c14U="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/favicon-32x32.nnhhtajgxt.png",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\favicon-32x32.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XbfqiVS8yC/YzTg6TIpC6XimkzWbPdPUmuAmexssKsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nnhhtajgxt"
+        },
+        {
+          "Name": "label",
+          "Value": "icons/favicon/favicon-32x32.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XbfqiVS8yC/YzTg6TIpC6XimkzWbPdPUmuAmexssKsY="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/favicon-32x32.png",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\favicon-32x32.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XbfqiVS8yC/YzTg6TIpC6XimkzWbPdPUmuAmexssKsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XbfqiVS8yC/YzTg6TIpC6XimkzWbPdPUmuAmexssKsY="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/site.6sx6pifph3.webmanifest",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\site.webmanifest",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/manifest+json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ep4Hzh9zhmiZF2At3Fp1dQrYQuYF/3ZPZxc1KcGBvwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6sx6pifph3"
+        },
+        {
+          "Name": "label",
+          "Value": "icons/favicon/site.webmanifest"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ep4Hzh9zhmiZF2At3Fp1dQrYQuYF/3ZPZxc1KcGBvwQ="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/site.webmanifest",
+      "AssetFile": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\site.webmanifest",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/manifest+json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ep4Hzh9zhmiZF2At3Fp1dQrYQuYF/3ZPZxc1KcGBvwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ep4Hzh9zhmiZF2At3Fp1dQrYQuYF/3ZPZxc1KcGBvwQ="
         }
       ]
     },

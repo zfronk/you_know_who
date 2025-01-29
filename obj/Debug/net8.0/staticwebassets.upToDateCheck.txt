@@ -1,5 +1,12 @@
 wwwroot\css\site.css
-wwwroot\favicon.ico
+wwwroot\icons\favicon\about.txt
+wwwroot\icons\favicon\android-chrome-192x192.png
+wwwroot\icons\favicon\android-chrome-512x512.png
+wwwroot\icons\favicon\apple-touch-icon.png
+wwwroot\icons\favicon\favicon.ico
+wwwroot\icons\favicon\favicon-16x16.png
+wwwroot\icons\favicon\favicon-32x32.png
+wwwroot\icons\favicon\site.webmanifest
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

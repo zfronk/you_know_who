@@ -9,8 +9,36 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\favicon.ico",
-      "PackagePath": "staticwebassets\\favicon.ico"
+      "Id": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\about.txt",
+      "PackagePath": "staticwebassets\\icons\\favicon\\about.txt"
+    },
+    {
+      "Id": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\icons\\favicon\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\android-chrome-512x512.png",
+      "PackagePath": "staticwebassets\\icons\\favicon\\android-chrome-512x512.png"
+    },
+    {
+      "Id": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\icons\\favicon\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\icons\\favicon\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\icons\\favicon\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\icons\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\icons\\favicon\\site.webmanifest",
+      "PackagePath": "staticwebassets\\icons\\favicon\\site.webmanifest"
     },
     {
       "Id": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Hello Docker Web\\wwwroot\\js\\site.js",

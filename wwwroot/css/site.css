@@ -4,7 +4,7 @@ html {
 
 @media (min-width: 768px) {
   html {
-    font-size: 19px;
+    font-size: 23px;
   }
 }
 
@@ -19,8 +19,8 @@ html {
 
 body {
     margin-bottom: 60px;
-    font-family: 'Shadows Into Light Two';
-    font-weight:bold;
+    font-family: "Boogaloo";
+    
 }
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
@@ -38,6 +38,20 @@ h1{
     letter-spacing:7px;
     text-shadow:3px 2px grey;
     text-transform:uppercase;
+    
 }
+
+label{
+    margin:6px;
+}
+
+.card{
+    box-shadow:3px 3px;
+    width:70%;
+    height:auto;
+    margin:10px auto;
+}
+
+
 
 

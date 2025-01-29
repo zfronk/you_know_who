@@ -3,9 +3,56 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4 fw-bold ">Welcome</h1>
-    <p>Hello Docker!</p>
-    <p>Prefer railway more!</p>
-    <p>Here is Magdaline's Number: 0799083508</p>
 
+    <h1 class="fw-bold display-3">Welcome</h1>
+    
+    <!--Register-->
+    <p>Lemme know you.</p>
+    
+    
+
+    <div class="card">
+
+        <div class="card-body">
+            <form asp-action="RegisterUser" method="post" class="text-center  d-flex column d-flex flex-column align-items-center">
+                <label for="username">
+                    Name:
+                    <input type="text" class="form-control-sm" id="Username" name="UserName" required />
+                </label>
+
+                <label for="age">
+                    Age:
+                    <input type="number" name="UserAge" id="Age" class="form-control-sm" required />
+                </label>
+
+                <label for="emailaddress">
+                    Email Address:
+                    <input type="email" id="emailaddress" name="EmailAddress" class="form-control-sm" required />
+                </label>
+
+                <label for="password">
+                    Password:
+                    <input type="password" id="password" name="Password" class="form-control-sm" required />
+                </label>
+
+
+                @if (ViewData["Opps"] != null)
+                {
+                    <span class="alert my-2 alert-danger">@ViewData["Opps"]</span>
+                }
+
+
+                <button type="submit" class="btn mt-3 btn-primary">Sign Up</button>
+
+            </form>
+
+
+        </div>
+        
+    </div>
+
+    
+    <p>Think I know you?<a asp-action="LoginPage">Login</a>.</p>
+
+   
 </div>

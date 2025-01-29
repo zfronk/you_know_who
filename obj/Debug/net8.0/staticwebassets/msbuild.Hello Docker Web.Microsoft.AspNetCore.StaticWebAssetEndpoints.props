@@ -1,28 +1,16 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/css/site.0r5lqkca5o.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0r5lqkca5o"},{"Name":"integrity","Value":"sha256-pIXZuZ\u002BMAU64gWdZC2CgkAjuO9X2vj16AN96gkO3WBg="},{"Name":"label","Value":"_content/Hello Docker Web/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"947"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pIXZuZ\u002BMAU64gWdZC2CgkAjuO9X2vj16AN96gkO3WBg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Jan 2025 00:26:42 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Hello Docker Web/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"843"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 16:32:56 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/css/site.obqmph9bw8.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"obqmph9bw8"},{"Name":"integrity","Value":"sha256-POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60="},{"Name":"label","Value":"_content/Hello Docker Web/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"843"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 16:32:56 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/favicon.61n19gt1b8.ico">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"61n19gt1b8"},{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="},{"Name":"label","Value":"_content/Hello Docker Web/favicon.ico"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Jan 2025 21:36:13 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/favicon.ico">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\favicon.ico'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Sun, 26 Jan 2025 21:36:13 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pIXZuZ\u002BMAU64gWdZC2CgkAjuO9X2vj16AN96gkO3WBg="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"947"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pIXZuZ\u002BMAU64gWdZC2CgkAjuO9X2vj16AN96gkO3WBg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Jan 2025 00:26:42 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Hello Docker Web/Hello Docker Web.3yc5skkugo.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Hello Docker Web.3yc5skkugo.bundle.scp.css'))</AssetFile>
@@ -35,6 +23,102 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-NQMho334VMDMQSGtfhWdEkvSdkuB/8p\u002BggUU9KgY\u002Bas="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1134"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022NQMho334VMDMQSGtfhWdEkvSdkuB/8p\u002BggUU9KgY\u002Bas=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 19:11:45 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/icons/favicon/about.dxwinlvmj1.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\favicon\about.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"dxwinlvmj1"},{"Name":"integrity","Value":"sha256-zy1CTPouLyTrn1DDGy2tMyyDPJSnNmzypxwtRQIUYfE="},{"Name":"label","Value":"_content/Hello Docker Web/icons/favicon/about.txt"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"218"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022zy1CTPouLyTrn1DDGy2tMyyDPJSnNmzypxwtRQIUYfE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 23:53:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/icons/favicon/about.txt">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\favicon\about.txt'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zy1CTPouLyTrn1DDGy2tMyyDPJSnNmzypxwtRQIUYfE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"218"},{"Name":"Content-Type","Value":"text/plain"},{"Name":"ETag","Value":"\u0022zy1CTPouLyTrn1DDGy2tMyyDPJSnNmzypxwtRQIUYfE=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 23:53:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/icons/favicon/android-chrome-192x192.b7g22l5kou.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\favicon\android-chrome-192x192.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"b7g22l5kou"},{"Name":"integrity","Value":"sha256-h8RMx0cdMedO8MpFX/Uj4c\u002Bd6ClILvp1yVf67JWj5Mo="},{"Name":"label","Value":"_content/Hello Docker Web/icons/favicon/android-chrome-192x192.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"9327"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022h8RMx0cdMedO8MpFX/Uj4c\u002Bd6ClILvp1yVf67JWj5Mo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 23:53:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/icons/favicon/android-chrome-192x192.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\favicon\android-chrome-192x192.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-h8RMx0cdMedO8MpFX/Uj4c\u002Bd6ClILvp1yVf67JWj5Mo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"9327"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022h8RMx0cdMedO8MpFX/Uj4c\u002Bd6ClILvp1yVf67JWj5Mo=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 23:53:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/icons/favicon/android-chrome-512x512.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\favicon\android-chrome-512x512.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-\u002BNWhFq3YO62\u002BydtbbGIYs4YtEP/60MqYWgbW3V7AyLI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"26823"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022\u002BNWhFq3YO62\u002BydtbbGIYs4YtEP/60MqYWgbW3V7AyLI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 23:53:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/icons/favicon/android-chrome-512x512.sjg1ct0g5j.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\favicon\android-chrome-512x512.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"sjg1ct0g5j"},{"Name":"integrity","Value":"sha256-\u002BNWhFq3YO62\u002BydtbbGIYs4YtEP/60MqYWgbW3V7AyLI="},{"Name":"label","Value":"_content/Hello Docker Web/icons/favicon/android-chrome-512x512.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"26823"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022\u002BNWhFq3YO62\u002BydtbbGIYs4YtEP/60MqYWgbW3V7AyLI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 23:53:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/icons/favicon/apple-touch-icon.plkuk0acib.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\favicon\apple-touch-icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"plkuk0acib"},{"Name":"integrity","Value":"sha256-zfdVQWBXJMwpU8hV/GZVZiEkCaW/kjU8uFRaFZQjr3g="},{"Name":"label","Value":"_content/Hello Docker Web/icons/favicon/apple-touch-icon.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8367"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022zfdVQWBXJMwpU8hV/GZVZiEkCaW/kjU8uFRaFZQjr3g=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 23:53:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/icons/favicon/apple-touch-icon.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\favicon\apple-touch-icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-zfdVQWBXJMwpU8hV/GZVZiEkCaW/kjU8uFRaFZQjr3g="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8367"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022zfdVQWBXJMwpU8hV/GZVZiEkCaW/kjU8uFRaFZQjr3g=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 23:53:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/icons/favicon/favicon-16x16.73exbzuh65.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\favicon\favicon-16x16.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"73exbzuh65"},{"Name":"integrity","Value":"sha256-bcNJZLQ7SZCN7q8cTFAYvbwbp9lN7upXdasDHT6c14U="},{"Name":"label","Value":"_content/Hello Docker Web/icons/favicon/favicon-16x16.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"469"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022bcNJZLQ7SZCN7q8cTFAYvbwbp9lN7upXdasDHT6c14U=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 23:53:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/icons/favicon/favicon-16x16.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\favicon\favicon-16x16.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bcNJZLQ7SZCN7q8cTFAYvbwbp9lN7upXdasDHT6c14U="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"469"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022bcNJZLQ7SZCN7q8cTFAYvbwbp9lN7upXdasDHT6c14U=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 23:53:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/icons/favicon/favicon-32x32.nnhhtajgxt.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\favicon\favicon-32x32.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"nnhhtajgxt"},{"Name":"integrity","Value":"sha256-XbfqiVS8yC/YzTg6TIpC6XimkzWbPdPUmuAmexssKsY="},{"Name":"label","Value":"_content/Hello Docker Web/icons/favicon/favicon-32x32.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1079"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022XbfqiVS8yC/YzTg6TIpC6XimkzWbPdPUmuAmexssKsY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 23:53:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/icons/favicon/favicon-32x32.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\favicon\favicon-32x32.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-XbfqiVS8yC/YzTg6TIpC6XimkzWbPdPUmuAmexssKsY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1079"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022XbfqiVS8yC/YzTg6TIpC6XimkzWbPdPUmuAmexssKsY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 23:53:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/icons/favicon/favicon.ico">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\favicon\favicon.ico'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-t3j8zVCSrlShbgnh3O3tcc0wAvejI0PwHOUCTfyIbT8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"15406"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022t3j8zVCSrlShbgnh3O3tcc0wAvejI0PwHOUCTfyIbT8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 23:53:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/icons/favicon/favicon.xa42lkc182.ico">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\favicon\favicon.ico'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xa42lkc182"},{"Name":"integrity","Value":"sha256-t3j8zVCSrlShbgnh3O3tcc0wAvejI0PwHOUCTfyIbT8="},{"Name":"label","Value":"_content/Hello Docker Web/icons/favicon/favicon.ico"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"15406"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022t3j8zVCSrlShbgnh3O3tcc0wAvejI0PwHOUCTfyIbT8=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 23:53:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/icons/favicon/site.6sx6pifph3.webmanifest">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\favicon\site.webmanifest'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6sx6pifph3"},{"Name":"integrity","Value":"sha256-ep4Hzh9zhmiZF2At3Fp1dQrYQuYF/3ZPZxc1KcGBvwQ="},{"Name":"label","Value":"_content/Hello Docker Web/icons/favicon/site.webmanifest"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"263"},{"Name":"Content-Type","Value":"application/manifest\u002Bjson"},{"Name":"ETag","Value":"\u0022ep4Hzh9zhmiZF2At3Fp1dQrYQuYF/3ZPZxc1KcGBvwQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 23:53:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/icons/favicon/site.webmanifest">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\icons\favicon\site.webmanifest'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ep4Hzh9zhmiZF2At3Fp1dQrYQuYF/3ZPZxc1KcGBvwQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"263"},{"Name":"Content-Type","Value":"application/manifest\u002Bjson"},{"Name":"ETag","Value":"\u0022ep4Hzh9zhmiZF2At3Fp1dQrYQuYF/3ZPZxc1KcGBvwQ=\u0022"},{"Name":"Last-Modified","Value":"Tue, 28 Jan 2025 23:53:19 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Hello Docker Web/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>

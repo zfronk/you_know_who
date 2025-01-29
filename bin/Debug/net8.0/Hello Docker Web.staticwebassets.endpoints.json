@@ -85,6 +85,51 @@
       ]
     },
     {
+      "Route": "css/site.0r5lqkca5o.css",
+      "AssetFile": "css/site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "947"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"pIXZuZ+MAU64gWdZC2CgkAjuO9X2vj16AN96gkO3WBg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Jan 2025 00:26:42 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0r5lqkca5o"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-pIXZuZ+MAU64gWdZC2CgkAjuO9X2vj16AN96gkO3WBg="
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        }
+      ]
+    },
+    {
       "Route": "css/site.css",
       "AssetFile": "css/site.css",
       "Selectors": [],
@@ -99,7 +144,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "843"
+          "Value": "947"
         },
         {
           "Name": "Content-Type",
@@ -107,23 +152,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60=\""
+          "Value": "\"pIXZuZ+MAU64gWdZC2CgkAjuO9X2vj16AN96gkO3WBg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 16:32:56 GMT"
+          "Value": "Wed, 29 Jan 2025 00:26:42 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60="
+          "Value": "sha256-pIXZuZ+MAU64gWdZC2CgkAjuO9X2vj16AN96gkO3WBg="
         }
       ]
     },
     {
-      "Route": "css/site.obqmph9bw8.css",
-      "AssetFile": "css/site.css",
+      "Route": "icons/favicon/about.dxwinlvmj1.txt",
+      "AssetFile": "icons/favicon/about.txt",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -136,39 +181,76 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "843"
+          "Value": "218"
         },
         {
           "Name": "Content-Type",
-          "Value": "text/css"
+          "Value": "text/plain"
         },
         {
           "Name": "ETag",
-          "Value": "\"POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60=\""
+          "Value": "\"zy1CTPouLyTrn1DDGy2tMyyDPJSnNmzypxwtRQIUYfE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 28 Jan 2025 16:32:56 GMT"
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "obqmph9bw8"
+          "Value": "dxwinlvmj1"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-POR1HrwKL3Pohylu2s9x2lJxJfMyo4nJeNgP8ChAW60="
+          "Value": "sha256-zy1CTPouLyTrn1DDGy2tMyyDPJSnNmzypxwtRQIUYfE="
         },
         {
           "Name": "label",
-          "Value": "css/site.css"
+          "Value": "icons/favicon/about.txt"
         }
       ]
     },
     {
-      "Route": "favicon.61n19gt1b8.ico",
-      "AssetFile": "favicon.ico",
+      "Route": "icons/favicon/about.txt",
+      "AssetFile": "icons/favicon/about.txt",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "218"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/plain"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zy1CTPouLyTrn1DDGy2tMyyDPJSnNmzypxwtRQIUYfE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zy1CTPouLyTrn1DDGy2tMyyDPJSnNmzypxwtRQIUYfE="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/android-chrome-192x192.b7g22l5kou.png",
+      "AssetFile": "icons/favicon/android-chrome-192x192.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -181,39 +263,39 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "9327"
         },
         {
           "Name": "Content-Type",
-          "Value": "image/x-icon"
+          "Value": "image/png"
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"h8RMx0cdMedO8MpFX/Uj4c+d6ClILvp1yVf67JWj5Mo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 21:36:13 GMT"
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "61n19gt1b8"
+          "Value": "b7g22l5kou"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-h8RMx0cdMedO8MpFX/Uj4c+d6ClILvp1yVf67JWj5Mo="
         },
         {
           "Name": "label",
-          "Value": "favicon.ico"
+          "Value": "icons/favicon/android-chrome-192x192.png"
         }
       ]
     },
     {
-      "Route": "favicon.ico",
-      "AssetFile": "favicon.ico",
+      "Route": "icons/favicon/android-chrome-192x192.png",
+      "AssetFile": "icons/favicon/android-chrome-192x192.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -226,7 +308,372 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5430"
+          "Value": "9327"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h8RMx0cdMedO8MpFX/Uj4c+d6ClILvp1yVf67JWj5Mo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h8RMx0cdMedO8MpFX/Uj4c+d6ClILvp1yVf67JWj5Mo="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/android-chrome-512x512.png",
+      "AssetFile": "icons/favicon/android-chrome-512x512.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+NWhFq3YO62+ydtbbGIYs4YtEP/60MqYWgbW3V7AyLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-+NWhFq3YO62+ydtbbGIYs4YtEP/60MqYWgbW3V7AyLI="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/android-chrome-512x512.sjg1ct0g5j.png",
+      "AssetFile": "icons/favicon/android-chrome-512x512.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "26823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"+NWhFq3YO62+ydtbbGIYs4YtEP/60MqYWgbW3V7AyLI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "sjg1ct0g5j"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-+NWhFq3YO62+ydtbbGIYs4YtEP/60MqYWgbW3V7AyLI="
+        },
+        {
+          "Name": "label",
+          "Value": "icons/favicon/android-chrome-512x512.png"
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/apple-touch-icon.plkuk0acib.png",
+      "AssetFile": "icons/favicon/apple-touch-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8367"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zfdVQWBXJMwpU8hV/GZVZiEkCaW/kjU8uFRaFZQjr3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "plkuk0acib"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-zfdVQWBXJMwpU8hV/GZVZiEkCaW/kjU8uFRaFZQjr3g="
+        },
+        {
+          "Name": "label",
+          "Value": "icons/favicon/apple-touch-icon.png"
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/apple-touch-icon.png",
+      "AssetFile": "icons/favicon/apple-touch-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8367"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"zfdVQWBXJMwpU8hV/GZVZiEkCaW/kjU8uFRaFZQjr3g=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:18 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-zfdVQWBXJMwpU8hV/GZVZiEkCaW/kjU8uFRaFZQjr3g="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/favicon-16x16.73exbzuh65.png",
+      "AssetFile": "icons/favicon/favicon-16x16.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bcNJZLQ7SZCN7q8cTFAYvbwbp9lN7upXdasDHT6c14U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "73exbzuh65"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bcNJZLQ7SZCN7q8cTFAYvbwbp9lN7upXdasDHT6c14U="
+        },
+        {
+          "Name": "label",
+          "Value": "icons/favicon/favicon-16x16.png"
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/favicon-16x16.png",
+      "AssetFile": "icons/favicon/favicon-16x16.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "469"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bcNJZLQ7SZCN7q8cTFAYvbwbp9lN7upXdasDHT6c14U=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bcNJZLQ7SZCN7q8cTFAYvbwbp9lN7upXdasDHT6c14U="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/favicon-32x32.nnhhtajgxt.png",
+      "AssetFile": "icons/favicon/favicon-32x32.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XbfqiVS8yC/YzTg6TIpC6XimkzWbPdPUmuAmexssKsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nnhhtajgxt"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-XbfqiVS8yC/YzTg6TIpC6XimkzWbPdPUmuAmexssKsY="
+        },
+        {
+          "Name": "label",
+          "Value": "icons/favicon/favicon-32x32.png"
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/favicon-32x32.png",
+      "AssetFile": "icons/favicon/favicon-32x32.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1079"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"XbfqiVS8yC/YzTg6TIpC6XimkzWbPdPUmuAmexssKsY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-XbfqiVS8yC/YzTg6TIpC6XimkzWbPdPUmuAmexssKsY="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/favicon.ico",
+      "AssetFile": "icons/favicon/favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15406"
         },
         {
           "Name": "Content-Type",
@@ -234,17 +681,144 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\""
+          "Value": "\"t3j8zVCSrlShbgnh3O3tcc0wAvejI0PwHOUCTfyIbT8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Sun, 26 Jan 2025 21:36:13 GMT"
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Jtxf9L+5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="
+          "Value": "sha256-t3j8zVCSrlShbgnh3O3tcc0wAvejI0PwHOUCTfyIbT8="
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/favicon.xa42lkc182.ico",
+      "AssetFile": "icons/favicon/favicon.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "15406"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"t3j8zVCSrlShbgnh3O3tcc0wAvejI0PwHOUCTfyIbT8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xa42lkc182"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-t3j8zVCSrlShbgnh3O3tcc0wAvejI0PwHOUCTfyIbT8="
+        },
+        {
+          "Name": "label",
+          "Value": "icons/favicon/favicon.ico"
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/site.6sx6pifph3.webmanifest",
+      "AssetFile": "icons/favicon/site.webmanifest",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/manifest+json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ep4Hzh9zhmiZF2At3Fp1dQrYQuYF/3ZPZxc1KcGBvwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "6sx6pifph3"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ep4Hzh9zhmiZF2At3Fp1dQrYQuYF/3ZPZxc1KcGBvwQ="
+        },
+        {
+          "Name": "label",
+          "Value": "icons/favicon/site.webmanifest"
+        }
+      ]
+    },
+    {
+      "Route": "icons/favicon/site.webmanifest",
+      "AssetFile": "icons/favicon/site.webmanifest",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "263"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/manifest+json"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ep4Hzh9zhmiZF2At3Fp1dQrYQuYF/3ZPZxc1KcGBvwQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 28 Jan 2025 23:53:19 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ep4Hzh9zhmiZF2At3Fp1dQrYQuYF/3ZPZxc1KcGBvwQ="
         }
       ]
     },
