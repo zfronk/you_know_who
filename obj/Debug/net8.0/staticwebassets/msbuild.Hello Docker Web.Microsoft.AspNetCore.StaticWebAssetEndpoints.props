@@ -1,16 +1,16 @@
 ﻿<Project>
   <ItemGroup>
-    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/css/site.0r5lqkca5o.css">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0r5lqkca5o"},{"Name":"integrity","Value":"sha256-pIXZuZ\u002BMAU64gWdZC2CgkAjuO9X2vj16AN96gkO3WBg="},{"Name":"label","Value":"_content/Hello Docker Web/css/site.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"947"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pIXZuZ\u002BMAU64gWdZC2CgkAjuO9X2vj16AN96gkO3WBg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Jan 2025 00:26:42 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Hello Docker Web/css/site.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-pIXZuZ\u002BMAU64gWdZC2CgkAjuO9X2vj16AN96gkO3WBg="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"947"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022pIXZuZ\u002BMAU64gWdZC2CgkAjuO9X2vj16AN96gkO3WBg=\u0022"},{"Name":"Last-Modified","Value":"Wed, 29 Jan 2025 00:26:42 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-5e\u002BgsPOh8c2NsX\u002BamdUfxQXkJkTkL0jkgxCK1vRXUl8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"881"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225e\u002BgsPOh8c2NsX\u002BamdUfxQXkJkTkL0jkgxCK1vRXUl8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 10:00:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Hello Docker Web/css/site.f79y1za4hy.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\site.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"f79y1za4hy"},{"Name":"integrity","Value":"sha256-5e\u002BgsPOh8c2NsX\u002BamdUfxQXkJkTkL0jkgxCK1vRXUl8="},{"Name":"label","Value":"_content/Hello Docker Web/css/site.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"881"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u00225e\u002BgsPOh8c2NsX\u002BamdUfxQXkJkTkL0jkgxCK1vRXUl8=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2025 10:00:39 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Hello Docker Web/Hello Docker Web.3yc5skkugo.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Hello Docker Web.3yc5skkugo.bundle.scp.css'))</AssetFile>

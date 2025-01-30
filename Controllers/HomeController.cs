@@ -15,35 +15,37 @@ public class HomeController : Controller
         _db = db;
 
     }
-
+    // Home Page
     public IActionResult Index()
     {
         return View();
     }
 
     [HttpPost]
-    //Register Route
+    // Register Route
     public IActionResult RegisterUser()
     {
 
-        string? userName = Request.Form["UserName"];
-        string? userAge = Request.Form["UserAge"];
-        string? userPassword = Request.Form["Password"];
-        string? userEmailAddress = Request.Form["EmailAddress"];
+        // Form details
+        string userName = Request.Form["UserName"];
+        string userAge = Request.Form["UserAge"];
+        string userPassword = Request.Form["Password"];
+        string userEmailAddress = Request.Form["EmailAddress"];
 
-
+        // No null entires
         if (!string.IsNullOrWhiteSpace(userName) && !string.IsNullOrWhiteSpace(userAge) && !string.IsNullOrWhiteSpace(userPassword) && !string.IsNullOrWhiteSpace(userEmailAddress))
         {
             int userAgeInt;
-
+            
+            // Parse
             if (int.TryParse(userAge , out userAgeInt))
             {
                 userAgeInt = int.Parse(userAge);
             }
 
 
-
-            UsersModel user = new UsersModel
+            // Add new user object
+            UsersModel newUser = new UsersModel
             {
                 Name = userName,
                 Age = userAgeInt,
@@ -53,26 +55,38 @@ public class HomeController : Controller
 
             };
 
-            //Check via email address
+            // Check via email address
             var existingUser = _db.users.FirstOrDefault(u => u.EmailAddress == userEmailAddress);
-
-            if (existingUser != null)
+            
+            
+            // If user doesn't exist
+            if (existingUser == null)
             {
 
-                ViewData["Opps"] = "Email address already in use!";
-                return View("Index");
+                _db.Add(newUser);
+                _db.SaveChanges();
+
+
+                var currentUser = newUser;
+
+                // start session 
+                HttpContext.Session.SetString("userId", currentUser.Id.ToString());
+                HttpContext.Session.SetString("userName",currentUser.Name);
+
+                return View("Welcome");
+
+              
             }
 
-            _db.Add(user);
-            _db.SaveChanges();
-
-            return View("Welcome");
+            ViewData["Opps"] = "Email address already in use!";
+            return View("Index");
         }
 
         
         return View("Index");
     }
 
+    // Page
     public IActionResult LoginPage()
     {
 
@@ -80,14 +94,17 @@ public class HomeController : Controller
     }
 
     [HttpPost]
+    // Login Route
     public IActionResult LoginUser()
     {
-        string? userName = Request.Form["UserName"];
-        string? userAge = Request.Form["UserAge"];
-        string? emailAddress = Request.Form["EmailAddress"];
-        string? password = Request.Form["Password"];
 
+        // Form details
+        string userName = Request.Form["UserName"];
+        string userAge = Request.Form["UserAge"];
+        string emailAddress = Request.Form["EmailAddress"];
+        string password = Request.Form["Password"];
 
+        // No null entries
         if (!string.IsNullOrWhiteSpace(userName) && !string.IsNullOrWhiteSpace(emailAddress) && !string.IsNullOrWhiteSpace(userAge) && !string.IsNullOrWhiteSpace(password) )
         {
             int userAgeInt;
@@ -98,13 +115,18 @@ public class HomeController : Controller
             }
 
 
-            var validUser = _db.users.SingleOrDefault(u => u.EmailAddress == emailAddress && u.Age == userAgeInt && u.Password == password && u.Name == userName ); 
+            var regUser = _db.users.SingleOrDefault(u => u.EmailAddress == emailAddress && u.Age == userAgeInt && u.Password == password && u.Name == userName ); 
 
-            if(validUser != null)
+            if( regUser != null)
             {
+                // Create session
+                HttpContext.Session.SetString("userId", regUser.Id.ToString());
+                HttpContext.Session.SetString("userName", regUser.Name);
+                
 
-                string? nickname = validUser.Name;
-                return View("Dashboard", nickname);
+
+                ViewData["Nickname"] = regUser.Name;
+                return View("Dashboard");
             }
 
             ViewData["Opps"] = "User not Found!";
@@ -114,11 +136,30 @@ public class HomeController : Controller
         return View("LoginPage");
     }
 
+    // Dashboard Page
+    public IActionResult Dashboard()
+    {
+        // Retrieve session
+        string userInSessionId = HttpContext.Session.GetString("userId");
+        string userInSession = HttpContext.Session.GetString("userName");
+
+        if (!string.IsNullOrEmpty(userInSessionId))
+        {
+            ViewData["Nickname"] = userInSession;
+            return View("Dashboard");
+        }
+
+        ViewData["Opps"] = "Please login to view dashboard!";
+        return View("LoginPage");
+        
+    }
+
+    // Privacy Page
     public IActionResult Privacy()
     {
 
-
-        ViewData["Time"] = DateTime.Now;
+        ViewData["EffectiveDate"] = DateTime.Now.ToString("f");
+        ViewData["LatestUpdate"] = "Thursday, 30 January 2025 11:38";
         return View();
     }
 

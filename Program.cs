@@ -7,9 +7,24 @@ var connectionString = builder.Configuration.GetConnectionString("DefaultConnect
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// MySQL service
 builder.Services.AddDbContext<ApplicationDbContext>(
     options => options.UseMySql(connectionString , ServerVersion.AutoDetect(connectionString)));
 
+// Memory cache storage
+builder.Services.AddDistributedMemoryCache();
+
+
+// Session service
+builder.Services.AddSession(
+    options =>
+    {
+        options.IdleTimeout = TimeSpan.FromMinutes(30);
+        options.Cookie.HttpOnly = true;
+        options.Cookie.IsEssential = true;
+        options.Cookie.SecurePolicy = CookieSecurePolicy.Always;
+    });
 
 
 var app = builder.Build();
@@ -22,6 +37,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+app.UseSession();
 app.UseHttpsRedirection();
 app.UseRouting();
 

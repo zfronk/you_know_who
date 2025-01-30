@@ -9,19 +9,19 @@ namespace Hello_Docker_Web.Models
         public Guid Id { get; set; }
 
         [Required]
-        public string? Name { get; set; }
+        public string Name { get; set; }
 
 
         [Required]
-        public int? Age { get; set; }
+        public int?  Age { get; set; }
 
         [Required]
         [EmailAddress]
-        public string? EmailAddress { get; set; }
+        public string EmailAddress { get; set; }
 
         [Required]
         [PasswordPropertyText]
-        public string? Password { get; set; }
+        public string Password { get; set; }
 
     }
 }

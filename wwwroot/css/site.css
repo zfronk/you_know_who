@@ -36,7 +36,6 @@ body {
 
 h1{
     letter-spacing:7px;
-    text-shadow:3px 2px grey;
     text-transform:uppercase;
     
 }
@@ -46,8 +45,7 @@ label{
 }
 
 .card{
-    box-shadow:3px 3px;
-    width:70%;
+    
     height:auto;
     margin:10px auto;
 }

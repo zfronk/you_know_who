@@ -1,13 +1,50 @@
-﻿
-@{
+﻿@{
     ViewData["Title"] = "Dashboard";
 }
 
 <div class="text-center">
-
-    <h1>Dashboard</h1>
-    <p>Hey there @Model.</p>
-
+    <h1 class="fw-bolder display-3">Dashboard</h1>
+    <p>Welcome back, @ViewData["Nickname"]!</p>
 </div>
 
+<!--Dashboard routes-->
+<div class="container row">
 
+    <!--Post message-->
+    <div class="col-md-4">
+        <div class="card text-center shadow-lg">
+            <div class="card-header"><h3 class="text-uppercase fw-bold">Create Post</h3></div>
+            <div class="card-body">
+                <p>Write an anonymous post...</p>
+                <p>Share something!</p>
+
+                <button class="btn btn-outline-primary">Create Post</button>
+            </div>
+        </div>
+
+    </div>
+
+    <!--Go live-->
+    <!--See others-->
+    <div class="col-md-4">
+        <div class="card shadow-lg text-center">
+            <div class="card-header"><h4 class="fw-bold text-uppercase">Go Live</h4></div>
+            <div class="card-body">
+                <p>See what others are saying?</p>
+                <button class="btn btn-outline-dark">Go Live</button>
+            </div>
+        </div>
+    </div>
+
+    <!--Log Out-->
+    <div class="col-md-4">
+        <div class="card text-center shadow">
+            <div class="card-header"><h2 class="text-uppercase fw-bold">Log out</h2></div>
+            <div class="card-body">
+                <p>Hope you had a nice time.</p>
+
+                <button class="btn btn-outline-danger">Log Out</button>
+            </div>
+        </div>
+    </div>
+</div>

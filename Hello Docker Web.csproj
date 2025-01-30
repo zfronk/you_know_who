@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>Hello_Docker_Web</RootNamespace>
     <UserSecretsId>7e4c2a2b-b90e-4960-b3fa-ee78862d7895</UserSecretsId>
