@@ -18,7 +18,10 @@
                 <p>Write an anonymous post...</p>
                 <p>Share something!</p>
 
-                <button class="btn btn-outline-primary">Create Post</button>
+                <form method="" asp-action="CreatePost">
+                    <button class="btn btn-outline-primary">Create Post</button>
+                </form>
+                
             </div>
         </div>
 
@@ -28,7 +31,10 @@
     <!--See others-->
     <div class="col-md-4">
         <div class="card shadow-lg text-center">
-            <div class="card-header"><h4 class="fw-bold text-uppercase">Go Live</h4></div>
+            <div class="card-header">
+                <h4 class="fw-bold text-uppercase">Go Live</h4>
+            </div>
+
             <div class="card-body">
                 <p>See what others are saying?</p>
                 <button class="btn btn-outline-dark">Go Live</button>
@@ -36,14 +42,35 @@
         </div>
     </div>
 
+    <!--Created Posts-->
+    <div class="col-md-4">
+         <div class="card text-center shadow-lg">
+            <div class="card-header">
+                <h5 class="fw-bold text-uppercase">Created Posts</h5>
+            </div>
+
+            <div class="card-body">
+                <p>View your created posts.</p>
+
+                <form asp-action="">
+                    <button class="btn btn-outline-dark">Your Posts</button>
+                </form>
+            </div>
+        </div>
+    </div>
+   
+
     <!--Log Out-->
     <div class="col-md-4">
-        <div class="card text-center shadow">
+        <div class="card text-center shadow-lg">
             <div class="card-header"><h2 class="text-uppercase fw-bold">Log out</h2></div>
             <div class="card-body">
                 <p>Hope you had a nice time.</p>
 
-                <button class="btn btn-outline-danger">Log Out</button>
+                <form method="" asp-action="LogOut">
+                    <button class="btn btn-outline-danger">Log Out</button>
+                </form>
+                
             </div>
         </div>
     </div>

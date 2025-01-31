@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sECGYwRDYq4=",
+  "dgSpecHash": "jfhkqwfrGe8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\Know You\\Hello Docker Web.csproj",
+  "projectFilePath": "C:\\Users\\Zfronk's\\Desktop\\Dotnet Projects\\You Know You\\Hello Docker Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zfronk's\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Zfronk's\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

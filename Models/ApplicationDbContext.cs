@@ -11,6 +11,7 @@ namespace Hello_Docker_Web.Models
         }
 
         public DbSet<UsersModel> users { get; set; }
+        public DbSet<CreatedPostModel> posts {get;set;}
 
 
     }

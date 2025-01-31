@@ -154,6 +154,38 @@ public class HomeController : Controller
         
     }
 
+
+    // Log Out 
+    public IActionResult LogOut()
+    {
+
+        var userInSession = HttpContext.Session.GetString("userId");
+
+        if (!string.IsNullOrEmpty(userInSession))
+        {
+            HttpContext.Session.Clear();
+            return View("Bye");
+        }
+
+        ViewData["Opps"] = "Please login to be able to log out!";
+        return View("LoginPage");
+        
+    }
+
+    //  Create Post
+    public IActionResult CreatePost()
+    {
+        var userInSession = HttpContext.Session.GetString("userId");
+
+        if (!string.IsNullOrEmpty(userInSession))
+        {
+            return View("CreatePost");
+        }
+        ViewData["Opps"]= "Please login to create post!";
+        return View("LoginPage");
+    }
+
+
     // Privacy Page
     public IActionResult Privacy()
     {

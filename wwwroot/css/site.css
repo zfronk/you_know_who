@@ -51,5 +51,15 @@ label{
 }
 
 
+.main-card {
+    width: 75%;
+    height: auto;
+    margin: 10px auto;
+}
 
+.post-card {
+    width: 65%;
+    height: auto;
+    padding:20px;
+}
 
