@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Hello_Docker_Web.Models;
+using System.Reflection.Metadata;
 
 namespace Hello_Docker_Web.Controllers;
 
@@ -44,7 +45,7 @@ public class HomeController : Controller
             }
 
 
-            // Add new user object
+            // Add new user
             UsersModel newUser = new UsersModel
             {
                 Name = userName,
@@ -158,9 +159,10 @@ public class HomeController : Controller
     // Log Out 
     public IActionResult LogOut()
     {
-
+        // Retrieve session
         var userInSession = HttpContext.Session.GetString("userId");
 
+        // if not null boot out
         if (!string.IsNullOrEmpty(userInSession))
         {
             HttpContext.Session.Clear();
@@ -172,7 +174,7 @@ public class HomeController : Controller
         
     }
 
-    //  Create Post
+    //  Create Post Page
     public IActionResult CreatePost()
     {
         var userInSession = HttpContext.Session.GetString("userId");
@@ -185,6 +187,101 @@ public class HomeController : Controller
         return View("LoginPage");
     }
 
+
+    // Post Message Route
+
+    [HttpPost]
+    public IActionResult PostMessage()
+    {
+        // Get session
+        var userInSession = HttpContext.Session.GetString("userId");
+
+        // If in session
+        if (!string.IsNullOrEmpty(userInSession))
+        {
+
+            //Parse
+
+            if (Guid.TryParse(userInSession , out Guid userID))
+            {
+                // Add post to db
+
+                string postTitle = Request.Form["PostTitle"];
+                string postBody = Request.Form["PostBody"];
+
+                // If not null
+                if (!string.IsNullOrWhiteSpace(postTitle) && !string.IsNullOrWhiteSpace(postBody))
+                {
+                    // Check if post is present
+                    var existingPost = _db.posts.SingleOrDefault(u => u.PostTitle == postTitle && u.PostBody == postBody);
+
+                    if (existingPost == null)
+                    {
+                        CreatedPostModel newPost = new CreatedPostModel
+                        {
+                            PostTitle = postTitle,
+                            PostBody = postBody,
+                            UserId = userID
+                        };
+
+                        _db.posts.Add(newPost);
+                        _db.SaveChanges();
+
+                        return View("PostShared");
+
+                    }
+
+                    else
+                    {
+                        ViewData["Opps"] = "No spamming!";
+                        return View("CreatePost");
+                    }
+
+                    
+                }
+
+
+
+            }
+
+
+
+        }
+
+        ViewData["Opps"] = "Please login to share post!";
+        return View("LoginPage");
+
+    }
+
+    // Your posts page
+    public IActionResult YourPosts()
+    {
+        // Retrieve session
+        var userInSession = HttpContext.Session.GetString("userId");
+
+        // If present
+        if (!string.IsNullOrEmpty(userInSession))
+        {
+
+            // Parse
+
+            if (Guid.TryParse(userInSession , out Guid userID))
+            {
+
+                var userposts = _db.posts.Where(u => u.UserId == userID).OrderByDescending(u => u.CreatedAt).ToList();
+
+                
+                // Pass userposts to view
+                return View("YourPosts",userposts);
+            }
+
+        }
+
+        ViewData["Opps"] = "Please login to view posts!";
+        return View("LoginPage");
+
+
+    }
 
     // Privacy Page
     public IActionResult Privacy()

@@ -711,4 +711,3 @@ C:\Users\Zfronk's\Desktop\Dotnet Projects\You Know You\obj\Debug\net8.0\refint\H
 C:\Users\Zfronk's\Desktop\Dotnet Projects\You Know You\obj\Debug\net8.0\Hello Docker Web.pdb
 C:\Users\Zfronk's\Desktop\Dotnet Projects\You Know You\obj\Debug\net8.0\Hello Docker Web.genruntimeconfig.cache
 C:\Users\Zfronk's\Desktop\Dotnet Projects\You Know You\obj\Debug\net8.0\ref\Hello Docker Web.dll
-C:\Users\Zfronk's\Desktop\Dotnet Projects\You Know You\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

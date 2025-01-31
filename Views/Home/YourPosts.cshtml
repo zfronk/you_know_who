@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Posts";
+    
+}
+
+<h1 class="fw-bolder display-3 text-center">Your Posts</h1>
+
+<div class="container p-3">
+    @foreach(var post in Model){
+        <div class="col-md-4">
+            <div class="card p-3 shadow text-center">
+                <div class="card-title fw-bold text-uppercase">@post.PostTitle</div>
+                <div class="card-body">@post.PostBody</div>
+                <div class="text-end card-footer">
+                    Time created:
+                </div>
+                
+            </div>
+        </div>
+        
+    }
+    
+</div>

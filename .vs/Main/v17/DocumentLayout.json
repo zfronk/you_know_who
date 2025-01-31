@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\you know you\\views\\home\\yourposts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|solutionrelative:views\\home\\yourposts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\you know you\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|solutionrelative:views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\you know you\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\you know you\\views\\home\\createpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|solutionrelative:views\\home\\createpost.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\you know you\\views\\home\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|solutionrelative:views\\home\\loginpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\you know you\\views\\home\\postshared.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|solutionrelative:views\\home\\postshared.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\you know you\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\you know you\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\you know you\\models\\createdpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|solutionrelative:models\\createdpostmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\you know you\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\you know you\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\you know you\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|c:\\users\\zfronk\u0027s\\desktop\\dotnet projects\\you know you\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A147F08-5119-429B-BF33-478569ACBC0B}|Hello Docker Web.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,24 +58,141 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-31T06:04:48.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Views\\Home\\LoginPage.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\LoginPage.cshtml",
+              "ToolTip": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Views\\Home\\LoginPage.cshtml",
+              "RelativeToolTip": "Views\\Home\\LoginPage.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T05:29:00.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-01-31T04:21:26.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "YourPosts.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Views\\Home\\YourPosts.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\YourPosts.cshtml",
+              "ToolTip": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Views\\Home\\YourPosts.cshtml",
+              "RelativeToolTip": "Views\\Home\\YourPosts.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T04:12:08.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T03:56:53.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T03:47:01.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PostShared.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Views\\Home\\PostShared.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\PostShared.cshtml",
+              "ToolTip": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Views\\Home\\PostShared.cshtml",
+              "RelativeToolTip": "Views\\Home\\PostShared.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T03:23:54.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoBAAAAAAAAAAAmwBABAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T03:17:14.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreatePost.cshtml",
+              "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Views\\Home\\CreatePost.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\CreatePost.cshtml",
+              "ToolTip": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Views\\Home\\CreatePost.cshtml",
+              "RelativeToolTip": "Views\\Home\\CreatePost.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-31T03:00:27.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Dashboard.cshtml",
               "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Views\\Home\\Dashboard.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Dashboard.cshtml",
               "ToolTip": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Views\\Home\\Dashboard.cshtml",
               "RelativeToolTip": "Views\\Home\\Dashboard.cshtml",
-              "ViewState": "AgIAADsAAAAAAAAAAAAUwEIAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACAAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-01-31T02:35:44.13Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 11,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Models\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
@@ -47,18 +200,17 @@
               "RelativeToolTip": "Models\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAQwAwAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T02:28:25.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T02:28:25.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "CreatedPostModel.cs",
               "DocumentMoniker": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Models\\CreatedPostModel.cs",
               "RelativeDocumentMoniker": "Models\\CreatedPostModel.cs",
               "ToolTip": "C:\\Users\\Zfronk\u0027s\\Desktop\\Dotnet Projects\\You Know You\\Models\\CreatedPostModel.cs",
               "RelativeToolTip": "Models\\CreatedPostModel.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAA1wA4AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBMAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T02:27:00.775Z",
               "EditorCaption": ""

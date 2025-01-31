@@ -48,12 +48,20 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxMb2dpblBhZ2UuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/Zfronk's/Desktop/Dotnet Projects/You Know You/Views/Home/PostShared.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3N0U2hhcmVkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Zfronk's/Desktop/Dotnet Projects/You Know You/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Zfronk's/Desktop/Dotnet Projects/You Know You/Views/Home/Welcome.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxXZWxjb21lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Zfronk's/Desktop/Dotnet Projects/You Know You/Views/Home/YourPosts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxZb3VyUG9zdHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Zfronk's/Desktop/Dotnet Projects/You Know You/Views/Shared/Error.cshtml]
