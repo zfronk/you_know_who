@@ -5,19 +5,50 @@
 
 <h1 class="fw-bolder display-3 text-center">Your Posts</h1>
 
+<p class="text-center">Edit and Delete posts with ease.</p>
+
+
 <div class="container p-3">
-    @foreach(var post in Model){
-        <div class="col-md-4">
-            <div class="card p-3 shadow text-center">
-                <div class="card-title fw-bold text-uppercase">@post.PostTitle</div>
-                <div class="card-body">@post.PostBody</div>
-                <div class="text-end card-footer">
-                    Time created:
+    <div class="row justify-content-center">
+        @if (Model == null)
+        {
+            <p>You haven't posted yet!</p>
+
+        }
+
+        else
+        {
+            @foreach (var post in Model)
+            {
+                <div class="col-lg-8 col-md-8 col-sm-12 mb-3">
+                    <div class="card p-3 shadow-lg text-center">
+
+                        <div class="card-title fw-bold text-uppercase">@post.PostTitle</div>
+                        <div class="card-body">@post.PostBody</div>
+
+                        <div class="card-footer d-flex flex-row justify-content-end text-end">
+                            <form>
+                                <button class="btn m-1 btn-warning">Edit</button>
+                            </form>
+
+                            <form>
+                                <button class="btn m-1 btn-danger">Delete</button>
+                            </form>
+                        </div>
+
+                    </div>
                 </div>
-                
-            </div>
-        </div>
-        
-    }
+
+
+
+            }
+        }
+    </div>
+   
     
+</div>
+
+
+<div class="mt-5">
+    <a asp-action="Dashboard" class="btn btn-outline-dark">Back to dashboard</a>
 </div>

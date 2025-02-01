@@ -222,6 +222,7 @@ public class HomeController : Controller
                             PostTitle = postTitle,
                             PostBody = postBody,
                             UserId = userID
+                            
                         };
 
                         _db.posts.Add(newPost);
@@ -287,8 +288,8 @@ public class HomeController : Controller
     public IActionResult Privacy()
     {
 
-        ViewData["EffectiveDate"] = DateTime.Now.ToString("f");
-        ViewData["LatestUpdate"] = "Thursday, 30 January 2025 11:38";
+        ViewData["EffectiveDate"] = DateTime.Now.ToString("dddd, MMMM dd, yyyy");
+        ViewData["LatestUpdate"] = "Thursday, January 30, 2025";
         return View();
     }
 

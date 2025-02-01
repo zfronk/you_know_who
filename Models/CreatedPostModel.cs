@@ -18,7 +18,7 @@ namespace Hello_Docker_Web.Models
         public string PostBody {  get; set; }
 
         [Required]
-        public DateTime CreatedAt { get; set; }
+        public DateTime CreatedAt { get; set; } = DateTime.Now;
         
     }
 }
