@@ -271,6 +271,11 @@ public class HomeController : Controller
 
                 var userposts = _db.posts.Where(u => u.UserId == userID).OrderByDescending(u => u.CreatedAt).ToList();
 
+                if (!userposts.Any())
+                {
+                    return View("Noposts");
+                }
+
                 
                 // Pass userposts to view
                 return View("YourPosts",userposts);

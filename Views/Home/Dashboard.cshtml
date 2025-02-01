@@ -18,9 +18,12 @@
                 <p>Create an anonymous post...</p>
                 <p>Share, Let others see what your thinking!</p>
 
-                <form asp-action="CreatePost">
-                    <button class="btn btn-outline-primary">Create Post</button>
-                </form>
+                <div class="card-footer">
+                    <form asp-action="CreatePost">
+                        <button class="btn btn-outline-primary m-1">Create Post</button>
+                    </form>
+
+                </div>
                 
             </div>
         </div>
@@ -38,7 +41,10 @@
             <div class="card-body">
                 <p>See what others are saying? In your region.</p>
                 
-                <button class="btn btn-outline-dark">Live Hub</button>
+                <div class="card-footer">
+                    <button class="btn btn-outline-dark m-1">Live Hub</button>
+                </div>
+                
             </div>
         </div>
     </div>
@@ -53,9 +59,13 @@
             <div class="card-body">
                 <p>View your created posts.</p>
 
-                <form asp-action="YourPosts">
-                    <button class="btn btn-outline-secondary">View Posts</button>
-                </form>
+                <div class="card-footer">
+                    <form asp-action="YourPosts">
+                        <button class="btn btn-outline-secondary m-1">View Posts</button>
+                    </form>
+
+                </div>
+                            
             </div>
         </div>
     </div>
@@ -66,11 +76,14 @@
         <div class="card p-3 text-center shadow-lg">
             <div class="card-title"><h2 class="text-uppercase fw-bold">Log out</h2></div>
             <div class="card-body">
-                <p>Hope you had a nice time.</p>
+                <p>Safely log out. Hope you had a nice time!</p>
 
-                <form asp-action="LogOut">
-                    <button class="btn btn-outline-danger">Log Out</button>
-                </form>
+                <div class="card-footer">
+                    <form asp-action="LogOut">
+                        <button class="btn btn-outline-danger m-1">Log Out</button>
+                    </form>
+
+                </div>
                 
             </div>
         </div>
