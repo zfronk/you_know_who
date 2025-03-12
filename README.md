@@ -16,7 +16,7 @@ Welcome to the **Hello Docker Web** app! This is a basic **ASP.NET Core MVC** we
 - **Backend**: ASP.NET Core MVC
 - **Database**: Entity Framework Core (for data management)
 - **Session Management**: ASP.NET Core Session
-- **Frontend**: Razor Views (HTML, CSS, and JavaScript)
+- **Frontend**: Razor Views (HTML, CSS, bootstrap)
 
 ## 📋 Prerequisites
 To run this application locally, you'll need:
