@@ -61,7 +61,7 @@ This app uses **Entity Framework Core** to manage the database, which stores use
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 💬 Let's Connect
-- **GitHub**: [your-username](https://github.com/your-username)
+- **GitHub**: zfronk
 ```
 
-Just replace `your-username` with your actual GitHub username and you should be good to go! Let me know if you need more assistance.
+
